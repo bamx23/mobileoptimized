@@ -6,6 +6,20 @@ See `Monitors` directory for more information about different types of crashes a
 
 `Crasher.mm` holds the code that leads to different crashes. App UI allows firing them all.
 
+# Keynote
+
+The presentation slides are at here: [talk_keynote.pdf](talk_keynote.pdf).
+
+# Links
+
+[Understanding and Analyzing Application Crash Reports](https://developer.apple.com/library/archive/technotes/tn2151/_index.html) by Apple.
+
+KSCrash: https://github.com/kstenerud/KSCrash
+PLCrashReporter: https://github.com/microsoft/plcrashreporter
+Impact: https://github.com/ChimeHQ/Impact
+
+AppMetrica: https://appmetrica.yandex.com and https://appmetrica.yandex.ru
+
 # LICENSE
 Copyright (c) 2019 Nikolay Volosatov
 
