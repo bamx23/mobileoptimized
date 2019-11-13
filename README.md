@@ -10,13 +10,17 @@ See `Monitors` directory for more information about different types of crashes a
 
 The presentation slides are at here: [talk_keynote.pdf](talk_keynote.pdf).
 
+# Video
+
+[![MOConfBy: Crash analysis on iOS. How does it work? (RU) Nikolay Volosatov](https://img.youtube.com/vi/tgag8-sW4HU/0.jpg)](https://www.youtube.com/watch?v=tgag8-sW4HU)
+
 # Links
 
 [Understanding and Analyzing Application Crash Reports](https://developer.apple.com/library/archive/technotes/tn2151/_index.html) by Apple.
 
-KSCrash: https://github.com/kstenerud/KSCrash
-PLCrashReporter: https://github.com/microsoft/plcrashreporter
-Impact: https://github.com/ChimeHQ/Impact
+* KSCrash: https://github.com/kstenerud/KSCrash
+* PLCrashReporter: https://github.com/microsoft/plcrashreporter
+* Impact: https://github.com/ChimeHQ/Impact
 
 AppMetrica: https://appmetrica.yandex.com and https://appmetrica.yandex.ru
 
